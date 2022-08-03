@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45" started-at="2022-08-03T07:59:55Z" finished-at="2022-08-03T07:59:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45" started-at="2022-08-03T07:59:55Z" finished-at="2022-08-03T07:59:55Z">
+      <class name="test.RCB_TeamVerification">
+        <test-method status="PASS" signature="validateForeignPlayersCount_RCB()[pri:1, instance:test.RCB_TeamVerification@32d992b2]" name="validateForeignPlayersCount_RCB" duration-ms="21" started-at="2022-08-03T13:29:55Z" finished-at="2022-08-03T13:29:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateForeignPlayersCount_RCB -->
+        <test-method status="PASS" signature="validateWicketkeeperCount_RCB()[pri:2, instance:test.RCB_TeamVerification@32d992b2]" name="validateWicketkeeperCount_RCB" duration-ms="3" started-at="2022-08-03T13:29:55Z" finished-at="2022-08-03T13:29:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateWicketkeeperCount_RCB -->
+      </class> <!-- test.RCB_TeamVerification -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
